@@ -1,0 +1,13 @@
+.list {
+  width: 100vw;
+}
+
+.list button {
+  background-color: #efefef;
+  display: inline-block;
+  margin: 5px;
+}
+
+.list button.active {
+  background-color: #b2e9ff;
+}
